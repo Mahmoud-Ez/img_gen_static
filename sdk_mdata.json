@@ -1,4 +1,6 @@
 {
+  "version": "1.1.0",
+  "exe_url": "https://yourdomain.com/yourprogram_latest.exe",
   "users": [
     {
       "mac_address": "IwtN8gWHs8eTrMkfO9Dp+VidUafFuVsA//dboDgHNgmY9Q2CVw4R79wtKJOGtgaPkZ493eZDWczpXXrIhPgU3Q==",
