@@ -7,6 +7,12 @@
       "user_name": "Z3blawii",
       "end_date": "2025-06-25 18:08:00",
       "sub_plan": "free"
+    },
+    {
+      "mac_address": "5QyHzLQDTp1BsRgQtI56oNKpjmC4qQH1cIqzuzi82SJvsQ/aE+Q0JkLENMjKD7bK9/F7p9LBRWWqxlATMdBRww==",
+      "user_name": "Vmware",  
+      "end_date": "2025-07-01 23:59:00",  
+      "sub_plan": "free"  
     }
   ]
 }
